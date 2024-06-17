@@ -1,0 +1,1 @@
+openai_key='API-key from chat GPT'
